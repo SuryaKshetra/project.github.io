@@ -1,6 +1,6 @@
 ## Team memberes:
-- Shreyas Kumara Adi (504)
--- SRN: 01FE23BCS245
+### Shreyas Kumara Adi (504)
+- SRN: 01FE23BCS245
 - Veeresh Mattikalli (511)
 - Arav Shah (522)
 - Ravi Kirasur (523)
