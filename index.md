@@ -1,9 +1,8 @@
 ## Team memberes:
-### Shreyas Kumara Adi (504)
-- SRN: 01FE23BCS245
-- Veeresh Mattikalli (511)
-- Arav Shah (522)
-- Ravi Kirasur (523)
+- Shreyas Kumara Adi (504) SRN: 01FE23BCS245
+- Veeresh Mattikalli (511) SRN: 01FE23BCS222
+- Arav Shah (522) SRN: 01FE23BCS231
+- Ravi Kirasur (523) SRN: 01FE23BCS233
 ## Div: E
 ## Team no.: E-3
 ## Course: 
