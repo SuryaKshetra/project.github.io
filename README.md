@@ -9,4 +9,4 @@ The course is designed to understand how real world entities help us in solving 
 
 -We connect the course with real time applications by understanding how the algorithms are connected to 
 
-[Learn more about our city design project.](project.html)
+[Learn more about our city design project.](City_Details.md)
