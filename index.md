@@ -6,13 +6,10 @@ title: "Home"
 # Course - Design and Analysis of Algorithms
 
 ### Project Team:
-- Arav Shah
-<br> 01FE23BCS231
-<br> 522
-- Ravi Kirasur -- 01FE23BCS2  
-- Shreyas Kumara Adi -- 01FE23BCS2  
-- Veeresh Mattikalli -- 01FE23BCS222  
-
+- Shreyas Kumara Adi<br> Roll No.: 504<br> SRN: 01FE23BCS245
+- Veeresh Mattikalli<br> Roll No.: 511<br> SRN: 01FE23BCS222
+- Arav Shah<br> Roll No.: 522<br> SRN: 01FE23BCS231
+- Ravi Kirasur<br> Roll No.: 523<br> SRN: 01FE23BCS233
 ---
 
 # Introduction
