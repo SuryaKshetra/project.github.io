@@ -1,8 +1,7 @@
-title: City Design Project
-description: Exploring city design through algorithms.
+title: SURYAKSHETRA CITY DESIGN
+description: Desgin a city for Algorithms course project
 theme: jekyll-theme-hyde
-baseurl: "" # Leave empty for GitHub Pages
-url: "https://<your-username>.github.io/city-design-website"
+
 
 # Navigation Links
 nav_links:
@@ -12,7 +11,3 @@ nav_links:
     url: "/about/"
   - title: "Project"
     url: "/project/"
-
-# Social Links
-twitter_username: your_twitter_username
-github_username: your_github_username
