@@ -161,6 +161,11 @@ Array query algorithms enable efficient data processing by:
 - Trees: In-order, pre-order, post-order.
 - Graphs: Depth-First Search (DFS), Breadth-First Search (BFS).
 
+### Applications:
+
+- Trees: Used in hierarchical data like file systems, database indexing, and syntax trees.
+- Graphs: Applied in networks, social media, shortest path problems, and dependency resolution.
+
 ## Deliberate on sorting and searching algorithms, the technique behind each and they connect to real world
 -
 
