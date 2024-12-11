@@ -107,24 +107,24 @@ Tree data structures are used to represent hierarchical data. Different types of
 ## Differentiate between tree and graphs and their traversals. The applications of each
 #### Cyclic Structure:
 
-Trees: Acyclic, no cycles.
-Graphs: Can be cyclic or acyclic.
+- Trees: Acyclic, no cycles.
+- Graphs: Can be cyclic or acyclic.
 #### Root Node:
 
-Trees: Single root node.
-Graphs: No specific root node.
+- Trees: Single root node.
+- Graphs: No specific root node.
 #### Parent-Child Relationship:
 
-Trees: Each node (except the root) has one parent.
-Graphs: A node can have multiple parents.
+- Trees: Each node (except the root) has one parent.
+- Graphs: A node can have multiple parents.
 #### Level-Based Structure:
 
-Trees: Organized into levels.
-Graphs: No strict level-based structure.
+- Trees: Organized into levels.
+- Graphs: No strict level-based structure.
 #### Traversal Methods:
 
-Trees: In-order, pre-order, post-order.
-Graphs: Depth-First Search (DFS), Breadth-First Search (BFS).
+- Trees: In-order, pre-order, post-order.
+- Graphs: Depth-First Search (DFS), Breadth-First Search (BFS).
 
 ## Deliberate on sorting and searching algorithms, the technique behind each and they connect to real world
 -
