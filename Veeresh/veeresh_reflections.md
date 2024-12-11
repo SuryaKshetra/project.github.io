@@ -1,7 +1,15 @@
 # Course Reflections By Veeresh
 
 ## What are the kinds of problems we see in the nature? (iteration, recursion, backtracking) 
--
+
+### Iteration:
+- 
+
+### Recursion:
+- 
+
+### Backtracking
+- 
 
 ## What is space and time efficiency? Why are they important? Explain the different class of problems and orders of growth 
 - 
