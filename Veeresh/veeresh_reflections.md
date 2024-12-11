@@ -167,10 +167,26 @@ Array query algorithms enable efficient data processing by:
 - Graphs: Applied in networks, social media, shortest path problems, and dependency resolution.
 
 ## Deliberate on sorting and searching algorithms, the technique behind each and they connect to real world
--
+### Bubble Sort
+- Bubble Sort works by going through the list and comparing two items next to each other. If they’re in the wrong order, it swaps them. This keeps happening until everything is in the right order. It’s not the best for big lists since it can take a long time (O(n²) in most cases). People usually use it for teaching or working with small lists.
+
+### Selection Sort
+- This method looks for the smallest number in the unsorted part of the list and swaps it with the first item that isn’t sorted yet. It keeps repeating until the whole list is sorted. While it’s not super fast (O(n²) every time), it’s useful when you need to keep the number of swaps low, like on devices with limited memory.
+
+### Merge Sort
+- Merge Sort splits the list into two halves, sorts each half, and then puts them back together in the right order. It does this over and over until everything is sorted. It’s consistent and takes O(n log n) time no matter the situation, making it good for big datasets or tasks where stable sorting is needed, like in databases.
+
+### Insertion Sort
+- This method takes one item at a time and puts it in the right spot within a sorted section of the list. It works really well for small lists or ones that are almost sorted already. In those cases, it can be pretty quick (O(n) for best cases). It’s often used in simple tasks, like arranging cards by hand.
+
+### Heap Sort
+- Heap Sort turns the list into a structure called a heap, where the biggest or smallest item is easy to find. It then pulls out that item, fixes the heap, and repeats until the list is sorted. This method always takes O(n log n) time. It’s good for things like priority queues or when you need to sort without using extra memory.
+
+### Quick Sort
+- Quick Sort picks a “pivot” and splits the list into two parts: items smaller than the pivot and items larger. It then sorts those parts and puts them back together. It’s usually pretty fast (O(n log n) on average), but if the pivot is chosen badly, it can slow down to O(n²). It’s popular for general sorting tasks because it works well in most situations and doesn’t need extra space.
 
 ## Discuss the importance of graph algorithms with respect to spanning trees and shortest paths
--
+- 
 
 ## Discuss about the different studied algorithm design techniques.
 -
