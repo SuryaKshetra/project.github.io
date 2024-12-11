@@ -3,7 +3,7 @@
 ## What are the kinds of problems we see in the nature? (iteration, recursion, backtracking) 
 
 ### Iteration:
-- A branch of a tree trunk divides into two branches those two branches 
+- A branch of a tree trunk divides into two branches. Each of those branch are divides into sub-branchs, each of sub-branch divides into nodes each nodes gives rise to leaves. This is how nature shows how iteration works.
 
 ### Recursion:
 - 
