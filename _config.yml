@@ -11,3 +11,16 @@ nav_links:
     url: "/about/"
   - title: "Project"
     url: "/project/"
+
+title: SURYAKSHETRA CITY DESIGN
+description: Desgin a city for Algorithms course project
+theme: jekyll-theme-slate 
+baseurl: "" 
+url: "https://suryakshetra.github.io"
+
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Project Introduction"
+    url: "/project/"
