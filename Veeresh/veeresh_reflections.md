@@ -7,14 +7,15 @@
 - Other examples for iteration are nitrogen cycle, food cycle, etc.
 
 ### Recursion:
-- A branch of a tree trunk divides into two branches. Each of the branch is divided into sub-branches, and each sub-branch divides into nodes each node gives rise to leaves. This is how nature shows how recursion works.
+- A branch of a tree trunk divides into two branches. Each of the branch is divided into sub-branches, and each sub-branch divides into nodes each node gives rise to leaves. <b>This is how nature shows how recursion works.</b>
 
 ### Backtracking
-- Animals often learn through a process of trial and error. They experiment with different behaviors or strategies to achieve a goal, like finding food or avoiding predators. If a particular approach fails, the animal may backtrack and try a different method. This iterative process of trying, failing, and adjusting allows animals to adapt to their environment and learn effective behaviors over time.
+- Animals often learn through a process of trial and error. They experiment with different behaviors or strategies to achieve a goal, like finding food or avoiding predators. If a particular approach fails, the animal may <b>backtrack</b> and try a different method. This iterative process of trying, failing, and adjusting allows animals to adapt to their environment and learn effective behaviors over time.
 
 ## What is space and time efficiency? Why are they important? Explain the different class of problems and orders of growth 
 - <b>Space efficiency</b> refers to the amount of memory an algorithm requires to execute. It involves minimizing memory usage by optimizing data structures and reducing unnecessary storage. A space-efficient algorithm can handle larger datasets and run more efficiently on resource-constrained systems.
-- Time efficiency measures the time an algorithm takes to complete its task. It involves reducing the number of operations performed, optimizing loops, and minimizing function calls. A time-efficient algorithm can process data faster and deliver results more quickly, especially for large-scale applications.
+- <b>Time efficiency</b> measures the time an algorithm takes to complete its task. It involves reducing the number of operations performed, optimizing loops, and minimizing function calls. A time-efficient algorithm can process data faster and deliver results more quickly, especially for large-scale applications.
+
 ## Take away from different design principles from chapter 2 (can use the notes provided) 
 - 
 
