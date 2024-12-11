@@ -102,7 +102,42 @@ Tree data structures are used to represent hierarchical data. Different types of
 - A Trie, also known as a prefix tree, is a tree-like data structure specifically designed for efficient storage and retrieval of strings. Each node in a Trie represents a character, and the path from the root to a leaf node forms a string. This structure allows for efficient prefix-based searching and pattern matching. However, Tries can consume significant space, especially for large sets of strings, as each node and edge in the Trie requires memory allocation.
 
 ## The need of array query algorithms and their implications. Their applications and principles need to be discussed 
--
+## Principles of Array Query Algorithms
+
+* **Divide and Conquer:** Break down problems into smaller subproblems for efficient solutions.
+* **Dynamic Programming:** Store intermediate results to avoid redundant calculations.
+* **Optimization:** Balance setup time and query time for optimal performance.
+
+### Array Query Algorithms: What They Do
+
+Array query algorithms enable efficient data processing by:
+
+* **Accelerating Data Retrieval:** Quickly finding specific information within large datasets.
+* **Facilitating Complex Data Operations:** Handling intricate data manipulation tasks.
+* **Reducing Computational Overhead:** Minimizing unnecessary calculations.
+
+### Examples of Array Query Techniques
+
+**1. Binary Search (Binary Index Tree)**
+* **How It Works:** Divides the search space in half with each iteration.
+* **Time Complexity:** O(log n)
+* **Requirement:** Sorted array
+* **Applications:** Searching in large sorted datasets.
+
+**2. Sliding Window Technique**
+* **How It Works:** Maintains a fixed-size window over the data.
+* **Time Complexity:** O(n)
+* **Applications:** Analyzing network traffic, signal processing.
+
+**3. Two Pointer Technique**
+* **How It Works:** Uses two pointers to iterate over the data.
+* **Time Complexity:** O(n)
+* **Applications:** Removing duplicates, reversing arrays.
+
+**4. Segment Tree**
+* **How It Works:** Divides the array into segments for efficient range queries.
+* **Time Complexity:** O(log n) for query and update operations.
+* **Applications:** Range-based queries (e.g., finding minimum/maximum in a range).
 
 ## Differentiate between tree and graphs and their traversals. The applications of each
 #### Cyclic Structure:
