@@ -1,6 +1,13 @@
 
 # Course - Design and Analysis of Algorithms
 
+### Project Team:
+- Arav Shah -- 01FE23BCS231
+- Ravi Kirasur -- 01FE23BCS2
+- Shreyas Kumara Adi -- 01FE23BCS2
+- Veeresh Mattikalli -- 01FE23BCS2
+
+# Introduction
 The course is designed to understand how real world entities help us in solving computational problems and also develop analytical skills.It also helps to understand the method of solving the problem which leads to finding better solutions in terms of efficiency.
 
 ## Data Structures And Algorithms Studied
