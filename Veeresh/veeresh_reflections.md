@@ -7,7 +7,7 @@
 - Other examples for iteration are nitrogen cycle, food cycle, etc.
 
 ### Recursion:
-- A branch of a tree trunk divides into two branches. Each of the branch is divided into sub-branches, and each sub-branch divides into nodes each node gives rise to leaves. <br><b>This is how nature shows how recursion works.</b>
+- A branch of a tree trunk divides into two branches. Each of the branch is divided into sub-branches, and each sub-branch divides into nodes each node gives rise to leaves. <br><b>This is way of nature teaching us how recursion works.</b>
 
 ### Backtracking
 - Animals often learn through a process of trial and error. They experiment with different behaviors or strategies to achieve a goal, like finding food or avoiding predators. If a particular approach fails, the animal may <b>backtrack</b> and try a different method. This iterative process of trying, failing, and adjusting allows animals to adapt to their environment and learn effective behaviors over time.
