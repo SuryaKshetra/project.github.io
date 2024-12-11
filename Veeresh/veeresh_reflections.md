@@ -19,6 +19,9 @@
 - Real-time systems such as ATMs or any payment gateway must process data and produce output within strict time constraints. Inefficient algorithms can lead to payment failures. This was one example; many others, such as Amazon, should open within a few seconds(if the network is good).
 - Space efficient apps or any website give results to given output smoothly without producing a lag or taking much time. so space efficiency is the most important constraint.
 
+### Orders of growth:
+#### O(1): Constant Time
+
 ## Take away from different design principles from chapter 2 (can use the notes provided) 
 - 
 
