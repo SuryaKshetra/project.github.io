@@ -15,6 +15,9 @@
 ## What is space and time efficiency? Why are they important? Explain the different class of problems and orders of growth 
 - <b>Space efficiency</b> refers to the amount of memory an algorithm requires to execute. It involves minimizing memory usage by optimizing data structures and reducing unnecessary storage. A space-efficient algorithm can handle larger datasets and run more efficiently on resource-constrained systems.
 - <b>Time efficiency</b> measures the time an algorithm takes to complete its task. It involves reducing the number of operations performed, optimizing loops, and minimizing function calls. A time-efficient algorithm can process data faster and deliver results more quickly, especially for large-scale applications.
+### Importance of space and time efficiency:
+- Real-time systems such as ATMs or any payment gateway must process data and produce output within strict time constraints. Inefficient algorithms can lead to payment failures. This was one example; many others, such as Amazon, should open within a few seconds(if the network is good).
+- Space efficient apps or any website give results to given output smoothly without producing a lag or taking much time. so space efficiency is the most important constraint.
 
 ## Take away from different design principles from chapter 2 (can use the notes provided) 
 - 
