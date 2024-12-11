@@ -186,7 +186,29 @@ Array query algorithms enable efficient data processing by:
 - Quick Sort picks a “pivot” and splits the list into two parts: items smaller than the pivot and items larger. It then sorts those parts and puts them back together. It’s usually pretty fast (O(n log n) on average), but if the pivot is chosen badly, it can slow down to O(n²). It’s popular for general sorting tasks because it works well in most situations and doesn’t need extra space.
 
 ## Discuss the importance of graph algorithms with respect to spanning trees and shortest paths
-- 
+### Spanning Trees :
+
+### Kruskal’s Algorithm
+
+- Sorts edges by weight Add lowest-weight edges without creating cycles
+
+### Prim’s Algorithm
+
+- Start from single node Grow tree by adding lowest-weight connected edges
+
+### Shortest Path Algorithms: 
+- Navigation Optimization
+
+### Dijkstra’s Algorithm Purpose: 
+- Find shortest path in weighted graphs
+
+### Applications: 
+- GPS navigation and Transportation planning
+
+### Floyd-Warshall Algorithm: 
+- Computes all-pairs shortest paths.
+
+#### Real-World Relevance Spanning tree algorithms ensure resource efficiency in building interconnected systems like utility grids. Shortest path algorithms are essential for real-time decision-making in transportation, communication, and supply chain management.
 
 ## Discuss about the different studied algorithm design techniques.
 
