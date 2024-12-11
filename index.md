@@ -59,4 +59,4 @@ Aligning with the Government of India’s mission to promote sustainable and inc
 - Shreyas Business Cases [Click Here](Shreyas/business_cases.md)
 - Veeresh Business Cases [Click Here](Veeresh/veeresh_buisness_cases.md)
 - Arav Business Cases [Click Here](Arav/businesscase.md)
-- Ravi Business Cases [Click Here](Ravi/business_cases.md)
+- Ravi Business Cases [Click Here](Ravi/Ravi's_business_cases.md)
