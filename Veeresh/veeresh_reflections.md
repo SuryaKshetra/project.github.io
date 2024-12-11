@@ -3,8 +3,7 @@
 ## What are the kinds of problems we see in the nature? (iteration, recursion, backtracking) 
 
 ### Iteration:
-- Basic water cycle is best example for iteration as it's explaination goes this way:
-Water is evaporated from oceans
+- Basic water cycle is best example for iteration as it's explaination goes this way:<br>Water is evaporated from oceans
 
 ### Recursion:
 - A branch of a tree trunk divides into two branches. Each of the branch is divided into sub-branches, and each sub-branch divides into nodes each node gives rise to leaves. This is how nature shows how recursion works.
