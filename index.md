@@ -40,6 +40,10 @@ We connect the course with real-time applications by applying the algorithms in 
 By understanding the design principles behind the algorithms, we implement them to solve problems faced in designing a city.
 
 ---
+# Course Project Introduction
+
+Suryakshetra is a meticulously planned urban area spanning 1,500 sq. km in Gujarat, strategically chosen to leverage its proximity to established cities like Rajkot, Porbandar, and Junagadh. This city model aspires to balance growth, sustainability, and livability while addressing key challenges of urbanization in India.
+
 
 ### [Learn more about our city design project.](City_Details.md)
 
