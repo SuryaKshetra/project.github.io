@@ -83,9 +83,7 @@ Tree data structures are used to represent hierarchical data. Different types of
 ### Common Tree Data Structures
 
 **1. Binary Tree**
-  * **Definition:** Each node has at most two children: a left child and a right child.
-  * **Use Cases:** Representing hierarchical data, expression trees.
-  * **Challenge:** Can become unbalanced, leading to inefficient operations.
+  **A binary tree is a fundamental data structure where each node has at most two children: a left child and a right child. This structure is versatile and can be used to represent hierarchical data, such as file systems, or to construct expression trees for evaluating mathematical expressions. However, binary trees can become unbalanced, leading to worst-case linear time complexity for operations like search, insertion, and deletion.**
 
 **2. Binary Search Tree (BST)**
   * **Definition:** A binary tree with the property that the left subtree contains nodes with keys less than the root node's key, and the right subtree contains nodes with keys greater than the root node's key.
