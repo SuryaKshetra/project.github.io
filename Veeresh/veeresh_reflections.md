@@ -4,12 +4,13 @@
 
 ### Iteration:
 - Basic water cycle is best example for iteration as it's explaination goes this way:<br>Water is evaporated from oceans, rivers, lakes, soil, etc. converting to vapour form. Water vapour in atmosphere is cooled and condensed which then forms clouds. Water droplets in clouds combine and become heavy enough to fall back to Earth as rain, snow, sleet, or hail. Precipitation that falls on land can flow over the surface as runoff, eventually reaching rivers and lakes. A portion of the precipitation seeps into the ground, replenishing groundwater.Plants absorb water from the ground and release it into the atmosphere through transpiration.<br>This cycle continues to the infinite time showing the perfect example for iteration.
+- Other examples for iteration are nitrogen cycle, food cycle, etc.
 
 ### Recursion:
 - A branch of a tree trunk divides into two branches. Each of the branch is divided into sub-branches, and each sub-branch divides into nodes each node gives rise to leaves. This is how nature shows how recursion works.
 
 ### Backtracking
-- 
+- Animals often learn through a process of trial and error. They experiment with different behaviors or strategies to achieve a goal, like finding food or avoiding predators. If a particular approach fails, the animal may backtrack and try a different method. This iterative process of trying, failing, and adjusting allows animals to adapt to their environment and learn effective behaviors over time.
 
 ## What is space and time efficiency? Why are they important? Explain the different class of problems and orders of growth 
 - 
