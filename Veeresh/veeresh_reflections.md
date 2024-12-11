@@ -20,7 +20,30 @@
 - Space efficient apps or any website give results to given output smoothly without producing a lag or taking much time. so space efficiency is the most important constraint.
 
 ### Orders of growth:
-#### O(1): Constant Time
+#### O(1): Constant Time: 
+- Operations take a fixed amount of time, regardless of input size
+- Example: Accessing an array element by index.
+
+#### O(log n): Logarithmic Time 
+- Time grows logarithmically with input size.   
+- Example: Binary search
+
+#### O(n): Linear Time
+- Time grows linearly with input size.
+- Example: Linear search.
+
+#### O(n log n): Linearithmic Time
+- Time grows as a product of n and log n.   
+- Example: Merge sort, quick sort.
+
+#### O(n^2): Quadratic Time
+- Time grows quadratically with input size.
+- Example: Bubble sort, insertion sort.
+
+#### O(n^3): Cubic Time
+- Time grows cubically with input size.
+- Example: Matrix multiplication.
+
 
 ## Take away from different design principles from chapter 2 (can use the notes provided) 
 - 
