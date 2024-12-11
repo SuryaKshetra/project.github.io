@@ -9,7 +9,7 @@ title: "Home"
 - Arav Shah -- 01FE23BCS231  
 - Ravi Kirasur -- 01FE23BCS2  
 - Shreyas Kumara Adi -- 01FE23BCS2  
-- Veeresh Mattikalli -- 01FE23BCS2  
+- Veeresh Mattikalli -- 01FE23BCS222  
 
 ---
 
@@ -41,4 +41,9 @@ By understanding the design principles behind the algorithms, we implement them 
 
 ---
 
-[Learn more about our city design project.](City_Details.md)
+### [Learn more about our city design project.](City_Details.md)
+## Course Reflections:
+- Shreyas Course Reflections [Click Here]()
+- Veeresh Course Reflections [Click Here](Veeresh/veeresh_reflections.md)
+- Arav Course Reflections [Click Here]()
+- Ravi Course Reflections [Click Here]()
