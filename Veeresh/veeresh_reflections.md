@@ -86,9 +86,7 @@ Tree data structures are used to represent hierarchical data. Different types of
   **A binary tree is a fundamental data structure where each node has at most two children: a left child and a right child. This structure is versatile and can be used to represent hierarchical data, such as file systems, or to construct expression trees for evaluating mathematical expressions. However, binary trees can become unbalanced, leading to worst-case linear time complexity for operations like search, insertion, and deletion.**
 
 **2. Binary Search Tree (BST)**
-  * **Definition:** A binary tree with the property that the left subtree contains nodes with keys less than the root node's key, and the right subtree contains nodes with keys greater than the root node's key.
-  * **Use Cases:** Efficient searching, insertion, and deletion.
-  * **Challenge:** Can become unbalanced, leading to worst-case linear time complexity.
+- A Binary Search Tree (BST) is a specific type of binary tree with a crucial property: the left subtree of any node contains nodes with keys less than the node's key, while the right subtree contains nodes with keys greater than the node's key. This property makes BSTs highly efficient for operations like searching, insertion, and deletion. However, BSTs can become unbalanced, meaning that the heights of the subtrees can differ significantly. This imbalance can lead to worst-case linear time complexity for these operations. 
 
 **3. AVL Tree**
   * **Definition:** A self-balancing binary search tree where the heights of the two child subtrees of any node differ by at most one.
