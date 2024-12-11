@@ -71,10 +71,8 @@ Optimization Techniques
 - Prefix and Suffix: Utilize prefix and suffix arrays to efficiently solve string-related problems.
 - Edge Relaxation: Update estimated shortest path distances in graph algorithms like Dijkstra's algorithm.
 - Parental Dominance: Organize data structures based on parent-child relationships, such as heaps.
-## The hierarchical data and how different tree data structures solve and optimize over the problem scenarios (tree, bst, avl, 2-3, red-black, heap, trie)
-**Hierarchical Data**
 
-Hierarchical data is a type of data structure where elements are organized in a parent-child relationship, forming a tree-like structure. This structure is commonly used to represent hierarchical information, such as file systems, organizational structures, and taxonomic classifications.
+## The hierarchical data and how different tree data structures solve and optimize over the problem scenarios (tree, bst, avl, 2-3, red-black, heap, trie)
 
 **Tree Data Structures**
 
@@ -83,45 +81,25 @@ Tree data structures are used to represent hierarchical data. Different types of
 ### Common Tree Data Structures
 
 **1. Binary Tree**
-  **A binary tree is a fundamental data structure where each node has at most two children: a left child and a right child. This structure is versatile and can be used to represent hierarchical data, such as file systems, or to construct expression trees for evaluating mathematical expressions. However, binary trees can become unbalanced, leading to worst-case linear time complexity for operations like search, insertion, and deletion.**
+- A binary tree is a fundamental data structure where each node has at most two children: a left child and a right child. This structure is versatile and can be used to represent hierarchical data, such as file systems, or to construct expression trees for evaluating mathematical expressions. However, binary trees can become unbalanced, leading to worst-case linear time complexity for operations like search, insertion, and deletion.
 
 **2. Binary Search Tree (BST)**
 - A Binary Search Tree (BST) is a specific type of binary tree with a crucial property: the left subtree of any node contains nodes with keys less than the node's key, while the right subtree contains nodes with keys greater than the node's key. This property makes BSTs highly efficient for operations like searching, insertion, and deletion. However, BSTs can become unbalanced, meaning that the heights of the subtrees can differ significantly. This imbalance can lead to worst-case linear time complexity for these operations. 
 
 **3. AVL Tree**
-  * **Definition:** A self-balancing binary search tree where the heights of the two child subtrees of any node differ by at most one.
-  * **Solution:** Maintains balance through rotations.
-  * **Challenge:** More complex implementation than a simple BST.
+ - An AVL tree is a self-balancing binary search tree that ensures efficient operations by maintaining a balanced structure. It achieves this balance by enforcing a strict height difference constraint: the heights of the two child subtrees of any node can differ by at most one. To maintain this balance, AVL trees use rotations, which are specific operations that restructure the tree. While AVL trees offer efficient performance, their implementation is more complex than a simple binary search tree due to the overhead of balancing operations.
 
 **4. 2-3 Tree**
-  * **Definition:** A self-balancing tree where each node can have either one or two keys and two or three children.
-  * **Solution:** Maintains balance through splitting and merging nodes.
-  * **Challenge:** More complex structure than a BST or AVL tree.
+- A 2-3 tree is a self-balancing tree data structure that ensures efficient operations by maintaining a balanced structure. Unlike binary trees, 2-3 trees can have nodes with either one or two keys and two or three children. To maintain balance, 2-3 trees use splitting and merging operations. While 2-3 trees offer efficient performance, their structure is more complex than binary search trees or AVL trees, which can make implementation more challenging.
 
 **5. Red-Black Tree**
-  * **Definition:** A self-balancing binary search tree where each node is colored either red or black.
-  * **Solution:** Maintains balance through specific color properties.
-  * **Challenge:** More complex implementation than a BST or AVL tree.
+- A Red-Black tree is a self-balancing binary search tree that maintains balance by assigning a color (red or black) to each node. By enforcing specific color properties, Red-Black trees ensure that the height of the tree remains logarithmic, leading to efficient operations. While Red-Black trees offer efficient performance, their implementation is more complex than a simple binary search tree or AVL tree due to the additional overhead of maintaining color properties and performing rotations to rebalance the tree.
 
 **6. Heap**
-  * **Definition:** A complete binary tree where each node is greater than or equal to (max heap) or less than or equal to (min heap) its children.
-  * **Use Cases:** Priority queues.
-  * **Challenge:** Not suitable for searching or traversing elements in a specific order.
+- A heap is a complete binary tree that follows a specific ordering property. In a max heap, the value of each node is greater than or equal to the values of its children. Conversely, in a min heap, the value of each node is less than or equal to the values of its children. Heaps are commonly used to implement priority queues, where elements 1  are prioritized based on their values. However, heaps are not optimized for searching or traversing elements in a specific order, as their structure is primarily designed for efficient insertion and deletion of the highest or lowest priority element. 
 
 **7. Trie**
-  * **Definition:** A tree-like data structure used to store a set of strings.
-  * **Use Cases:** Efficient string searching and prefix matching.
-  * **Challenge:** Can consume significant space for large sets of strings.
-
-### Choosing the Right Tree Data Structure
-
-The choice of tree data structure depends on the specific requirements of the application:
-
-* **Frequent insertions and deletions:** AVL trees and red-black trees are good choices.
-* **Efficient searching:** BSTs, AVL trees, and red-black trees are suitable.
-* **Storing and retrieving strings:** Tries are ideal.
-* **Priority queues:** Heaps are well-suited.
-
+- A Trie, also known as a prefix tree, is a tree-like data structure specifically designed for efficient storage and retrieval of strings. Each node in a Trie represents a character, and the path from the root to a leaf node forms a string. This structure allows for efficient prefix-based searching and pattern matching. However, Tries can consume significant space, especially for large sets of strings, as each node and edge in the Trie requires memory allocation.
 
 ## The need of array query algorithms and their implications. Their applications and principles need to be discussed 
 -
