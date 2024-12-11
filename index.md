@@ -42,8 +42,8 @@ By understanding the design principles behind the algorithms, we implement them 
 ---
 # Course Project Introduction
 
-Suryakshetra is a meticulously planned urban area spanning 1,500 sq. km in Gujarat, strategically chosen to leverage its proximity to established cities like Rajkot, Porbandar, and Junagadh. This city model aspires to balance growth, sustainability, and livability while addressing key challenges of urbanization in India.
-
+Suryakshetra is a well planned urban smart city with area of 1500 sq.km in Gujarat, it is strategically chosen as its proximity to established cities like Rajkot, Porbandar, and Junagadh. This city model aspires to balance growth, sustainability, and livability while addressing key challenges of urbanization in India.
+Aligning with the Government of India’s mission to promote sustainable and inclusive cities, Suryakshetra will integrate smart technologies, improve urban infrastructure, and enhance the quality of life.
 
 ### [Learn more about our city design project.](City_Details.md)
 
@@ -57,5 +57,5 @@ Suryakshetra is a meticulously planned urban area spanning 1,500 sq. km in Gujar
 ## Business Cases:
 - Shreyas Business Cases [Click Here]()
 - Veeresh Business Cases [Click Here]()
-- Arav Business Cases [Click Here]()
+- Arav Business Cases [Click Here](Arav/businesscase.md)
 - Ravi Business Cases [Click Here]()
