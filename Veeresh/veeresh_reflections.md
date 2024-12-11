@@ -189,4 +189,16 @@ Array query algorithms enable efficient data processing by:
 - 
 
 ## Discuss about the different studied algorithm design techniques.
--
+
+### Recursive Algorithms
+- These algorithms solve problems by breaking them into smaller versions of the same problem. They rely on a base case to stop the process. Common examples include calculating factorials and navigating through tree structures.
+
+### Brute Force
+- Brute Force works by trying every possible solution to find the correct one. While it guarantees a result, it can be very slow and inefficient, especially for large inputs. It is mainly used for small datasets or to double-check the correctness of other algorithms.
+
+### Dynamic Programming
+- Dynamic Programming tackles problems by dividing them into smaller parts, solving each once, and saving the results for reuse. This method avoids redundant calculations and is often used in challenges like the Fibonacci sequence or solving the Knapsack Problem.
+
+### Divide and Conquer
+- This technique splits a problem into smaller, independent pieces, solves each one, and then combines the results. Well-known examples of this approach include Quick Sort and Merge Sort, which efficiently handle sorting tasks.
+
