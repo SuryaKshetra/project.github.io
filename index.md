@@ -43,7 +43,7 @@ By understanding the design principles behind the algorithms, we implement them 
 
 ### [Learn more about our city design project.](City_Details.md)
 ## Course Reflections:
-- Shreyas Course Reflections [Click Here]()
+- Shreyas Course Reflections [Click Here](Shreyas/Reflections.md)
 - Veeresh Course Reflections [Click Here](Veeresh/veeresh_reflections.md)
 - Arav Course Reflections [Click Here](Arav/Reflections.md)
 - Ravi Course Reflections [Click Here](Ravi/Reflections.md)
