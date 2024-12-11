@@ -46,4 +46,4 @@ By understanding the design principles behind the algorithms, we implement them 
 - Shreyas Course Reflections [Click Here]()
 - Veeresh Course Reflections [Click Here](Veeresh/veeresh_reflections.md)
 - Arav Course Reflections [Click Here](Arav/Reflections)
-- Ravi Course Reflections [Click Here]()
+- Ravi Course Reflections [Click Here](Ravi/Reflections)
