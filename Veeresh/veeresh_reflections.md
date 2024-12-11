@@ -46,8 +46,31 @@
 
 
 ## Take away from different design principles from chapter 2 (can use the notes provided) 
-- 
-
+- Decomposition: Divide a large problem into smaller, more manageable subproblems.
+- Pattern Recognition: Identify recurring patterns in the problem to apply known solutions or algorithms.
+Organizing and Representing Data
+- Abstraction: Focus on the essential aspects of a problem, ignoring unnecessary details.
+- Hierarchical Data: Organize data in a hierarchical structure, like a tree, to represent relationships between elements.
+Searching and Traversing
+- Brave Traversal (DFS): Explore a path as deep as possible before backtracking.
+- Cautious Traversal (BFS): Explore all nodes at a given level before moving to the next level.
+- Level Order Traversal: Traverse a tree level by level, from left to right.
+- Shortest Path Trees: Find the shortest path between nodes in a graph, often used in routing algorithms.
+Optimization Techniques
+- Pruning: Eliminate unnecessary computations or search paths to improve efficiency.
+- Lazy Propagation: Delay updates to data structures until they are strictly necessary, optimizing performance.
+- Sliding Window: Process a fixed-size window of data as it moves through an array, useful for problems involving subarrays.
+- Balancing and Rotation: Maintain the balance of tree-based data structures to ensure efficient operations.
+- Kleene Closure: Find all possible paths between nodes in a graph, useful for connectivity analysis.
+- Precomputing: Calculate and store results for future use, avoiding redundant computations.
+- Memoization: Store the results of function calls to avoid redundant calculations, especially in recursive algorithms.
+- Invariants: Identify conditions that remain true throughout an algorithm's execution, aiding in correctness proofs and optimizations.
+#### Data Manipulation Techniques
+- Bit Manipulation: Use bitwise operations to optimize memory usage and perform calculations efficiently.
+- Partitioning: Divide a problem into smaller subproblems, often used in sorting and divide-and-conquer algorithms.
+- Prefix and Suffix: Utilize prefix and suffix arrays to efficiently solve string-related problems.
+- Edge Relaxation: Update estimated shortest path distances in graph algorithms like Dijkstra's algorithm.
+- Parental Dominance: Organize data structures based on parent-child relationships, such as heaps.
 ## The hierarchical data and how different tree data structures solve and optimize over the problem scenarios (tree, bst, avl, 2-3, red-black, heap, trie)
 -
 
