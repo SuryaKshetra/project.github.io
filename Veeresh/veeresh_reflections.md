@@ -3,7 +3,7 @@
 ## What are the kinds of problems we see in the nature? (iteration, recursion, backtracking) 
 
 ### Iteration:
-- Basic water cycle is best example for iteration as it's explaination goes this way:<br>Water is evaporated from oceans, rivers, lakes, soil, etc. converting to vapour form. Water vapour in atmosphere is cooled and condensed which then forms clouds. Water droplets in clouds combine and become heavy enough to fall back to Earth as rain, snow, sleet, or hail. Precipitation that falls on land can flow over the surface as runoff, eventually reaching rivers and lakes. A portion of the precipitation seeps into the ground, replenishing groundwater.Plants absorb water from the ground and release it into the atmosphere through transpiration.<be><b>This cycle continues to the infinite time showing the perfect example for iteration.</b>
+- Basic water cycle is best example for iteration as it's explaination goes this way:<br>Water is evaporated from oceans, rivers, lakes, soil, etc. converting to vapour form. Water vapour in atmosphere is cooled and condensed which then forms clouds. Water droplets in clouds combine and become heavy enough to fall back to Earth as rain, snow, sleet, or hail. Precipitation that falls on land can flow over the surface as runoff, eventually reaching rivers and lakes. A portion of the precipitation seeps into the ground, replenishing groundwater.Plants absorb water from the ground and release it into the atmosphere through transpiration.<br><b>This cycle continues to the infinite time showing the perfect example for iteration.</b>
 - Other examples for iteration are nitrogen cycle, food cycle, etc.
 
 ### Recursion:
