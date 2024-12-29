@@ -46,7 +46,7 @@ A **Segment Tree** is an ideal data structure for managing range queries and upd
 - **Range Queries**: You can use the segment tree to query for available space in a specific region of land (e.g., find all gaps of unused land between certain coordinates).
 - **Dynamic Updates**: When land is used for constructing apartments, the segment tree can be updated to reflect the change in land status.
 - **Efficiency**: Segment trees provide `O(log n)` time complexity for both querying and updating, making them very efficient for applications with dynamic data, such as this one.
-Code for segment tree can be seen here [Segment tree code](#segment_tree.cpp)
+Code for segment tree can be seen here [Segment tree code](https://github.com/SuryaKshetra/project.github.io/blob/main/Ravi/segment_tree.cpp)
 
 **Binary Indexed Tree (BIT) / Fenwick Tree**
 #### Explanation:
@@ -54,12 +54,12 @@ A **Binary Indexed Tree (BIT)** is another efficient data structure that support
 
 - **Range Sum Queries**: BIT excels in scenarios where cumulative sum queries are needed, such as finding the total unused land in a specific range.
 - **Efficient Updates**: BIT provides efficient updates to land status, although it might not be as effective as a segment tree when working with more complex data or larger datasets.
-- Sample code can be found here [Fenwick tree code](#fenwick_tree.cpp)
+- Sample code can be found here [Fenwick tree code](https://github.com/SuryaKshetra/project.github.io/blob/main/Ravi/fenwick_tree.cpp)
 
 **Sorting**
 Before using more advanced data structures like segment trees, sorting the land intervals can help organize the data and make it easier to perform further operations like merging intervals or searching for available land.
 Once the intervals are sorted, you can use binary search or linear scans to quickly identify gaps of available land or where new apartments can be built.
-Some simple sorting algorithm can be used from [Sorting reference code](#sorting.cpp)
+Some simple sorting algorithm can be used from [Sorting reference code](https://github.com/SuryaKshetra/project.github.io/blob/main/Ravi/sorting.cpp)
 
 A **Greedy Algorithm** is ideal when you need to select the maximum number of non-overlapping intervals. After sorting the intervals, a greedy approach can help select the largest possible number of available land regions for construction.
 
@@ -84,14 +84,14 @@ This system can also act as a **smart energy solution** for cities by providing 
 #### Use Case:
 - **Energy Transmission Optimization**: Once piezoelectric plates are installed in high-kinetic zones, we need to route the generated electricity efficiently to the storage system or businesses. Dijkstra's algorithm can be used to compute the **shortest path** between energy collection points and storage locations, minimizing the energy loss due to long transmission paths.
 Time Complexity: O((V + E) log V), where V is the number of vertices and E is the number of edges.
-Code for it can found here [djikstra code](https://github.com/SuryaKshetra/project.github.io/edit/main/Ravi/algorithms_in_business_cases.md#segment_tree.cpp)
+Code for it can found here [djikstra code](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)
 
 ### QuickSort or MergeSort
 Sorting algorithms can help in organizing road segments or regions based on traffic patterns or kinetic energy potential. Sorting these regions by traffic intensity (or by kinetic energy produced) ensures that piezoelectric plates are installed in areas that maximize energy production.
 
 #### Use Case:
 - Suppose you have a set of road segments, each with different levels of foot traffic or vehicle movement. Sorting these segments by energy generation potential allows you to install piezoelectric plates in the highest-traffic areas first.
-Code for merge sort can be found here [merge sort code]()
+Code for merge sort can be found here [merge sort code](https://github.com/SuryaKshetra/project.github.io/blob/main/Ravi/merge_sort.cpp)
 
 ### Dynamic Programming for Cost Optimization
 Given multiple regions with varying traffic volumes, Dynamic Programming can be used to determine the optimal placement of piezoelectric plates. It helps ensure that the energy produced is maximized while keeping installation costs as low as possible.
@@ -102,7 +102,7 @@ A Segment Tree is a tree data structure used to store information about interval
 As each piezoelectric plate generates energy depending on traffic intensity in the segment, a Segment Tree can be used to store and query the total energy produced in any given segment of the road.
 Segment trees allow for both range queries (e.g., total energy produced in a range of road segments) and point updates (e.g., updating energy data when traffic volume changes).
 **Efficiency**: The segment tree supports logarithmic time complexity for both queries and updates, making it very efficient for large datasets.
-Code for segment tree can be seen here [Segment tree code](#segment_tree.cpp)
+Code for segment tree can be seen here [Segment tree code](https://github.com/SuryaKshetra/project.github.io/blob/main/Ravi/segment_tree.cpp)
 
 ---
 ## Smart Governance and Civic Engagement-
@@ -130,7 +130,7 @@ Code for segment tree can be seen here [Segment tree code](#segment_tree.cpp)
      - **Prefix Search** for efficient querying of service requests or feedback.
      - **Autocomplete Functionality** for search engines within civic engagement apps.
    - **Use Case:** Tries are useful for efficiently searching through large datasets like service requests, FAQs, or feedback systems. It can help citizens find relevant information quickly.
-Code for trie can referenced from here [Trie](#Trie.cpp)
+Code for trie can referenced from here [Trie](https://github.com/SuryaKshetra/project.github.io/blob/main/Ravi/Trie.cpp)
 
 **Priority Queues (for Task Scheduling and Issue Resolution)**
    - **Data Structure:** Priority Queue is a data structure where elements are ordered based on their priority, not just their insertion order.
@@ -143,6 +143,13 @@ Code for trie can referenced from here [Trie](#Trie.cpp)
    - **Algorithm:** 
      - **Hashing Function** to ensure uniform distribution and minimize collisions.
    - **Use Case:** Hash maps are ideal for storing and retrieving user data, citizen requests, or even verifying the integrity of records (e.g., matching ID numbers with public profiles securely).
+
+
+
+
+
+
+
 
 
 
