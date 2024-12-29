@@ -22,21 +22,15 @@ This target emphasizes the importance of improving urban air quality as part of 
 2) **Input Method:** The user will provide input through an Adjacency Matrix, which is a representation of the available land or space for waste disposal. This matrix will define the relationships between different sections of land and help in determining how the space can be divided.
 
 3) **Process:**
-<ul>
-<li> **User Input:** The user will specify the total available land area where waste disposal can take place. This might include different sections for each waste type, such as organic, recyclable, hazardous, and electronic waste.</li>
 
-<li>Allocation of Land: Based on the total land available, the user will allocate specific areas for each waste classification. For instance, one section might be designated for organic waste, another for recyclable waste, and a separate space for electronic waste. This helps in preventing cross-contamination and ensures proper management of different waste types.</li>
+- **User Input:** The user will specify the total available land area where waste disposal can take place. This might include different sections for each waste type, such as organic, recyclable, hazardous, and electronic waste.
 
-<li>MAT Table: To organize and manage this allocation, a MAT (Matrix Allocation Table) will be used. This table will provide a clear structure, showing the starting and ending locations of each waste type’s designated area. It helps in sorting the data and visually tracking where each waste type is located within the available land.</li>
+- **Allocation of Land:** Based on the total land available, the user will allocate specific areas for each waste classification. For instance, one section might be designated for organic waste, another for recyclable waste, and a separate space for electronic waste. This helps in preventing cross-contamination and ensures proper management of different waste types.
 
-<li>Sorting and Tracking: The MAT table will also help in sorting the data efficiently by providing details on which sections are allocated for each waste type, as well as their boundaries (starting and ending points). This makes it easy to track how much space each waste classification occupies and adjust the allocation if necessary.</li>
+MAT Table: To organize and manage this allocation, a MAT (Matrix Allocation Table) will be used. This table will provide a clear structure, showing the starting and ending locations of each waste type’s designated area. It helps in sorting the data and visually tracking where each waste type is located within the available land.
 
-<li>Navigation: If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.</li>
+Sorting and Tracking: The MAT table will also help in sorting the data efficiently by providing details on which sections are allocated for each waste type, as well as their boundaries (starting and ending points). This makes it easy to track how much space each waste classification occupies and adjust the allocation if necessary.
+
+Navigation: If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
 
 Click Here to navigate to the MAT table code
-</ul>
-<ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-</ul>
