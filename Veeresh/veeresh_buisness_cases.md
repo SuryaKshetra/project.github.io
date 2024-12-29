@@ -18,4 +18,4 @@ This target emphasizes the importance of improving urban air quality as part of 
 ## Step1: Alloting spaces for the classifications of the wastes that can be dumped
 - Here, the task is to allot spaces for different wastes like organic, non-biodegradable, e-waste, etc..
 - Input would be taken by Adjacency matrix.
-<p>The user tells me about how much land or area is present in which we can dump it</p>
+The user tells me about how much land or area is present in which we can dump it. Then he'll allocate the land for various sections of waste. For this he needs a table where he could get the starting and ending location and sort all of the data. So he needs 
