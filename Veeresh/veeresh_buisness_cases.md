@@ -14,4 +14,5 @@ The Waste Management Service aims to streamline waste collection and segregation
 
 This target emphasizes the importance of improving urban air quality as part of creating sustainable cities and communities. Air quality monitoring helps track pollution levels, identify sources, and develop strategies to improve urban air conditions, contributing directly to this goal.
 
-# 
+# EXPLAINATION FOR THE ABOVE BUSINESS CASES:
+
