@@ -33,3 +33,8 @@ Sorting and Tracking: The MAT table will also help in sorting the data efficient
 Navigation: If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
 
 Click Here to navigate to the MAT table code
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
