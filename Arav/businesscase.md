@@ -75,7 +75,7 @@ We can use a Union-Find data structure to group green spaces that are directly o
 - **Union-Find**: Efficiently determines if two elements belong to the same connected component.
   - **Efficiency**: O(n)
 
-Code:
+Code for [Union-find](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/Union-Find.cpp)
 
 ---
 
@@ -92,7 +92,7 @@ We represent green spaces as nodes in a graph, and connections (paths) as edges.
 - **Prim's Algorithm**: Constructs a minimum spanning tree for a weighted undirected graph.  
   - **Efficiency**: O(E log V)
 
-Code for Prim's:
+Code for [Prim's](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/Prims.cpp)
 
 ---
 
@@ -113,7 +113,7 @@ We use Dijkstra's Algorithm with a Min-Heap to calculate shortest paths in real-
 **Algorithms:**
 - **Dijkstra's Algorithm**: Finds the shortest path from a current location to the nearest charging station.
 
-Code:
+Code: [Dijikstra's](https://github.com/Aravshah24/DSA_codes/blob/fd4fb1fee94ea032f7ff48380b07d4fe65c0b567/DSA_codes/Dijikstra's.cpp)
 
 ---
 
@@ -143,7 +143,7 @@ We can use a Hash Table to store historical usage and failure data for each char
 **Algorithms:**
 - **Hashing**: For efficient insertion and retrieval of charging station data.
 
-Code:
+Code for [Hashing](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/Hashing.cpp)
 
 ---
 
@@ -165,7 +165,7 @@ We represent the relationships between tourist attractions as a graph using an A
 - **Depth-First Search (DFS)**: Explores the graph of related attractions.
 - **Trie Search**: Efficiently finds attractions based on prefix matches.
 
-Code:
+Code for [DFS](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/dfs.cpp)
 
 ---
 
@@ -195,10 +195,11 @@ We use Queues to simulate waiting lines at attractions and manage entry procedur
 **Data Structures:**
 - **Queue**: Manages waiting lines in a first-in, first-out (FIFO) order.  
   - **Efficiency**: O(1) for insertion and deletion.
+  - code: [queue](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/Queue.cpp)
 
 **Algorithms:**
 - **Sorting Algorithms (Quick Sort, Merge Sort)**: Arranges tourists in order based on priority.  
   - **Efficiency**: O(n log n)
 
-Code: 
-
+Code: [Quicksort](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/quicksort.cpp)
+    - [Mergesort](https://github.com/Aravshah24/DSA_codes/blob/6f89fc7fbc86a704f6a1bf28654e8a1f31d8ba81/DSA_codes/mergesort.cpp)
