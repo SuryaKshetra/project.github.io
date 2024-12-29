@@ -27,10 +27,10 @@ This target emphasizes the importance of improving urban air quality as part of 
 
 - **Allocation of Land:** Based on the total land available, the user will allocate specific areas for each waste classification. For instance, one section might be designated for organic waste, another for recyclable waste, and a separate space for electronic waste. This helps in preventing cross-contamination and ensures proper management of different waste types.
 
-MAT Table: To organize and manage this allocation, a MAT (Matrix Allocation Table) will be used. This table will provide a clear structure, showing the starting and ending locations of each waste type’s designated area. It helps in sorting the data and visually tracking where each waste type is located within the available land.
+- **MAT Table:** To organize and manage this allocation, a MAT (Matrix Allocation Table) will be used. This table will provide a clear structure, showing the starting and ending locations of each waste type’s designated area. It helps in sorting the data and visually tracking where each waste type is located within the available land.
 
-Sorting and Tracking: The MAT table will also help in sorting the data efficiently by providing details on which sections are allocated for each waste type, as well as their boundaries (starting and ending points). This makes it easy to track how much space each waste classification occupies and adjust the allocation if necessary.
+- **Sorting and Tracking:** The MAT table will also help in sorting the data efficiently by providing details on which sections are allocated for each waste type, as well as their boundaries (starting and ending points). This makes it easy to track how much space each waste classification occupies and adjust the allocation if necessary.
 
-Navigation: If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
+- **Navigation:** If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
 
-Click Here to navigate to the MAT table code
+**Click Here** to navigate to the MAT table code
