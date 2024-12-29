@@ -34,3 +34,7 @@ This target emphasizes the importance of improving urban air quality as part of 
 - **Navigation:** If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/MatTable.cpp)** to navigate to the MAT table code
+**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble sort code
+**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
+**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to merge sort code
+
