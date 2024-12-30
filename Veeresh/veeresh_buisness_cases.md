@@ -120,6 +120,11 @@ For instance, if you're trying to find the most efficient route for waste collec
 BFS is especially useful in situations where you need to explore multiple possible paths to determine the best one. By evaluating all paths level by level, it ensures that waste collection vehicles follow the shortest route, reducing unnecessary travel time. The algorithm has a time complexity of O(V + E), where V is the number of vertices (or nodes) and E is the number of edges in the graph, which makes it both efficient and reliable for route planning and optimization.
 
 **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/e0e038cc859820fa23aab742b22d40b18eb12062/Veeresh/bfs.cpp)** to navigate to BFS CODE.
+# Union-Find:
+**Union-Find**, also known as Disjoint Set Union (DSU), is a crucial data structure used in waste management systems to efficiently group collection zones, optimize resource allocation, track connections, and handle emergencies. By identifying and managing which waste collection zones are connected, Union-Find enables the system to efficiently group related zones and improve overall operations.
 
+In the context of waste management, Union-Find helps in optimizing various tasks such as routing collection vehicles, managing waste segregation, and responding to service disruptions. The data structure dynamically handles changes in zone connectivity, which is especially useful when managing large cities or regions with frequently changing waste collection needs.
 
+With its ability to efficiently find and union connected zones, Union-Find improves service delivery by ensuring that resources are allocated to the right zones, minimizing inefficiencies. The time complexity of Union-Find is O(E log V), where E represents the number of edges (or connections between zones) and V represents the number of zones, making it a highly efficient solution for optimizing waste management operations.
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/b2f52a9734a98d300cff5b61745e2cb96f11a3af/Veeresh/union_find.cpp)** to navigate to Union-Find CODE.
 Written By [Veeresh Mattikalli](https://github.com/VeereshMattikalli/)
