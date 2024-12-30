@@ -106,7 +106,8 @@ This approach reduces littering and carbon emissions, promotes recycling, and im
 # Heap Sort for Waste Processing System
 
 For waste processing systems, **Heap Sort** is a reliable and consistent sorting algorithm. Unlike QuickSort, which can slow down significantly due to poor pivot choices or partially sorted data, Heap Sort ensures that performance remains stable. Heap Sort has a time complexity of **O(n log n)** in all cases, while QuickSort can degrade to **O(n²)** in the worst case. This makes Heap Sort a more predictable option for systems where timing is crucial. Additionally, Heap Sort is memory efficient, using only **O(1)** extra space, whereas QuickSort requires **O(log n)** space for recursion, which can be a drawback when dealing with large amounts of waste data. For waste processing systems that need consistent and efficient performance, Heap Sort is an ideal choice, ensuring reliable sorting without unexpected delays.
-**[Click Here](**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Heap sort code
+
+**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Heap sort code
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to merge sort code
 
