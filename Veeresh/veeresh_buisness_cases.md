@@ -60,7 +60,7 @@ After collecting all the waste, we need to separate it into categories like dry,
   - Time complexity: **O(n log n)**.
 - **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
 # Dijkstra's Algorithm
-
+We need to coolect
 **Why Dijkstra's Algorithm was chosen:**
 
 1. **Shortest Path Needed**:  
@@ -89,7 +89,8 @@ After collecting all the waste, we need to separate it into categories like dry,
 
 9. **Efficiency**:  
    The algorithm guarantees the shortest path when all weights are positive, with a time complexity of **O(|E| log |V|)**.
-- **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
+   <br>
+**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
 <br>
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble sort code
 <br>
