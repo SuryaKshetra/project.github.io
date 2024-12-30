@@ -59,11 +59,41 @@ After collecting all the waste, we need to separate it into categories like dry,
   - Happens when the pivot divides the data evenly.  
   - Time complexity: **O(n log n)**.
 - **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
+# Dijkstra's Algorithm
 
+**Why Dijkstra's Algorithm was chosen:**
+
+1. **Shortest Path Needed**:  
+   We require the shortest path based on time (weighted edges).
+
+2. **Positive Weights**:  
+   All weights (times) are positive. If weights were negative, we would have used the Bellman-Ford algorithm.
+
+3. **Specific Start and End Points**:  
+   The journey starts at the **Dump Yard Start** and ends at the **Dump Yard End**.
+
+4. **Specific Location Visit**:  
+   We need to visit a specific location (**Residential Area**) twice.
+
+5. **Relatively Small Graph**:  
+   The graph consists of 9 locations, making it manageable for Dijkstra's algorithm.
+
+6. **Edge Relaxation Principle**:  
+   Dijkstra's algorithm works based on edge relaxation to find the shortest path.
+
+7. **Single Source Shortest Path**:  
+   It is a single-source shortest path algorithm.
+
+8. **Greedy Technique**:  
+   Dijkstra's falls under the greedy algorithm category, ensuring the shortest path for graphs with non-negative weights.
+
+9. **Efficiency**:  
+   The algorithm guarantees the shortest path when all weights are positive, with a time complexity of **O(|E| log |V|)**.
+- **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
+<br>
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble sort code
 <br>
-**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
-<br>
+
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to merge sort code
 <br>
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mykruskal.cpp)** to navigate Kruskals code
