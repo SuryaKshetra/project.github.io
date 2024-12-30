@@ -60,7 +60,14 @@ After collecting all the waste, we need to separate it into categories like dry,
   - Time complexity: **O(n log n)**.
 - **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
 # Dijkstra's Algorithm
-We need to coolect
+## Waste Management in Smart Cities
+
+In smart cities, waste management is streamlined to ensure cleanliness, reduce environmental impact, and optimize resources. Waste is collected from residential areas, commercial zones, industrial sites, and public spaces. Smart bins with sensors notify collection teams when full, enabling timely pick-up, while strategic routes minimize disruptions in commercial zones. Industrial waste, often hazardous, is handled separately, and public spaces are regularly monitored for cleanliness.
+
+Transportation to dump yards or recycling facilities is optimized using advanced algorithms like Dijkstra’s, ensuring efficient routes that save time and fuel. GPS-equipped vehicles enable real-time tracking, ensuring adherence to schedules. Segregation at the source, facilitated by smart bins and citizen involvement, simplifies processing by categorizing waste into organic, recyclable, and hazardous materials.
+
+This approach reduces littering and carbon emissions, promotes recycling, and improves resource efficiency. By leveraging technology and sustainable practices, smart cities create cleaner environments and make waste management more eco-friendly and effective for residents and the planet.
+
 **Why Dijkstra's Algorithm was chosen:**
 
 1. **Shortest Path Needed**:  
