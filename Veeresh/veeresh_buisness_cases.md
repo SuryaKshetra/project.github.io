@@ -58,6 +58,7 @@ After collecting all the waste, we need to separate it into categories like dry,
 - **Best Case**:  
   - Happens when the pivot divides the data evenly.  
   - Time complexity: **O(n log n)**.
+- **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble sort code
 <br>
