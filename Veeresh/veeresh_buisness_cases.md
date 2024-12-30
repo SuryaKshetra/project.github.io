@@ -59,7 +59,7 @@ After collecting all the waste, we need to separate it into categories like dry,
 - **Navigation:** If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/MatTable.cpp)** to navigate to the MAT table code
-<br>
+
 
 # Dijkstra's Algorithm
 ## Waste Management in Smart Cities
@@ -98,16 +98,15 @@ This approach reduces littering and carbon emissions, promotes recycling, and im
 
 9. **Efficiency**:  
    The algorithm guarantees the shortest path when all weights are positive, with a time complexity of **O(|E| log |V|)**.
-   <br>
+   
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
-<br>
 
 **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble Sort code 
 
 
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to merge sort code
-<br>
+
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mykruskal.cpp)** to navigate Kruskals code
 
 
