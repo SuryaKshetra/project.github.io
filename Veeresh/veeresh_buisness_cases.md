@@ -39,7 +39,7 @@ After collecting all the waste, we need to separate it into categories like dry,
   - Happens when the pivot divides the data evenly.  
   - Time complexity: **O(n log n)**.
 - **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
-<be>
+
 ## Alloting spaces for the classifications of the wastes that can be dumped
 
 1) **Objective:** The goal is to allocate specific areas or spaces for different types of waste (such as organic waste, non-biodegradable waste, e-waste, etc.) to ensure that the waste disposal process is organized and efficient.
