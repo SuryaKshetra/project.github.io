@@ -127,4 +127,19 @@ With its ability to efficiently find and union connected zones, Union-Find impro
 
 **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/b2f52a9734a98d300cff5b61745e2cb96f11a3af/Veeresh/union_find.cpp)** to navigate to Union-Find CODE.
 
+# Kruskals Algorithm:
+**Kruskal's Algorithm for Waste Management in a 1500 sq km Smart City**
+
+In a large-scale, 1500 square kilometer smart city, efficient waste management is a critical component of urban infrastructure. Kruskal’s Algorithm, a greedy algorithm primarily used for finding the minimum spanning tree (MST) of a graph, can play a significant role in optimizing waste collection routes and the overall waste management network. 
+
+By representing waste collection points, transportation routes, and waste processing facilities as a graph, where nodes represent locations and edges represent possible paths or connections between these locations, Kruskal’s Algorithm can help minimize the total cost of waste collection and transportation. The objective is to identify the most cost-effective routes for waste collection vehicles, while ensuring that all areas of the city are adequately served.
+
+Kruskal’s Algorithm operates by sorting all edges (routes) by their weight (which could represent factors such as distance, fuel cost, or time) and selecting the smallest edges first to form a minimum spanning tree. The key advantage of using Kruskal’s Algorithm in a smart city is that it allows waste management authorities to determine the optimal network of routes for waste collection, minimizing travel distances, reducing fuel consumption, and ultimately improving service efficiency.
+
+In a 1500 sq km smart city, where waste management requires precise planning and effective resource allocation, Kruskal’s Algorithm can be used to connect all waste collection points in the most efficient manner. The algorithm ensures that all regions of the city are covered while minimizing infrastructure costs and optimizing the deployment of waste collection resources.
+
+The time complexity of Kruskal’s Algorithm is O(E log E), where E represents the number of edges (possible routes). Given the vast scale of a smart city, Kruskal’s Algorithm provides an efficient solution to handle a large number of connections and nodes, making it an excellent choice for waste management optimization.
+
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/c10a794fc9d23e0e0c8a875197f01077c639bd12/Veeresh/mykruskal.cpp)** to navigate to Kruskals Algorithm
+
 Written By [Veeresh Mattikalli](https://github.com/VeereshMattikalli/)
