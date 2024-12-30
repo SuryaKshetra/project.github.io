@@ -38,7 +38,7 @@ After collecting all the waste, we need to separate it into categories like dry,
 - **Best Case**:  
   - Happens when the pivot divides the data evenly.  
   - Time complexity: **O(n log n)**.
-- **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
+- **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/quicksort.cpp)** to navigate to the Quick Sort code
 
 ## Alloting spaces for the classifications of the wastes that can be dumped
 
@@ -58,7 +58,7 @@ After collecting all the waste, we need to separate it into categories like dry,
 
 - **Navigation:** If the user needs assistance with the implementation of the MAT table, they can access the specific code or guidance by following a provided link.
 
-**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/MatTable.cpp)** to navigate to the MAT table code
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/MatTable.cpp)** to navigate to the MAT table code
 
 
 # Dijkstra's Algorithm
@@ -99,7 +99,7 @@ This approach reduces littering and carbon emissions, promotes recycling, and im
 9. **Efficiency**:  
    The algorithm guarantees the shortest path when all weights are positive, with a time complexity of **O(|E| log |V|)**.
    
-**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
 
 **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble Sort code 
 
@@ -107,11 +107,11 @@ This approach reduces littering and carbon emissions, promotes recycling, and im
 
 For waste processing systems, **Heap Sort** is a reliable and consistent sorting algorithm. Unlike QuickSort, which can slow down significantly due to poor pivot choices or partially sorted data, Heap Sort ensures that performance remains stable. Heap Sort has a time complexity of **O(n log n)** in all cases, while QuickSort can degrade to **O(n²)** in the worst case. This makes Heap Sort a more predictable option for systems where timing is crucial. Additionally, Heap Sort is memory efficient, using only **O(1)** extra space, whereas QuickSort requires **O(log n)** space for recursion, which can be a drawback when dealing with large amounts of waste data. For waste processing systems that need consistent and efficient performance, Heap Sort is an ideal choice, ensuring reliable sorting without unexpected delays.
 
-**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Heap sort code
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Heap sort code
 # Merge Sort:
 When we require a stable sorting algorithm, need to work with pre-sorted or partially sorted data, and seek guaranteed time complexity, merge sort is an excellent choice. It consistently provides O(n log n) performance in all scenarios, regardless of the input's initial order. Additionally, merge sort is suitable when extra memory usage is acceptable and reliable processing times are necessary, making it an ideal solution for sorting large datasets with predictable behavior across various conditions.
 
-**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Merge Sort code
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Merge Sort code
 # BFS:
 **Breadth-First Search (BFS)** is a powerful algorithm particularly suited for finding the shortest path in an unweighted graph, where all edges have equal weight or cost. It explores the graph in a level-by-level manner, starting from a source node and visiting all neighboring nodes before moving to the next level.
 
@@ -126,6 +126,7 @@ BFS is especially useful in situations where you need to explore multiple possib
 In the context of waste management, Union-Find helps in optimizing various tasks such as routing collection vehicles, managing waste segregation, and responding to service disruptions. The data structure dynamically handles changes in zone connectivity, which is especially useful when managing large cities or regions with frequently changing waste collection needs.
 
 With its ability to efficiently find and union connected zones, Union-Find improves service delivery by ensuring that resources are allocated to the right zones, minimizing inefficiencies. The time complexity of Union-Find is O(E log V), where E represents the number of edges (or connections between zones) and V represents the number of zones, making it a highly efficient solution for optimizing waste management operations.
+
 **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/b2f52a9734a98d300cff5b61745e2cb96f11a3af/Veeresh/union_find.cpp)** to navigate to Union-Find CODE.
 
 Written By [Veeresh Mattikalli](https://github.com/VeereshMattikalli/)
