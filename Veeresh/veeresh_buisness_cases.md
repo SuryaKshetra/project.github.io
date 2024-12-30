@@ -140,6 +140,19 @@ In a 1500 sq km smart city, where waste management requires precise planning and
 
 The time complexity of Kruskal’s Algorithm is O(E log E), where E represents the number of edges (possible routes). Given the vast scale of a smart city, Kruskal’s Algorithm provides an efficient solution to handle a large number of connections and nodes, making it an excellent choice for waste management optimization.
 
-**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/c10a794fc9d23e0e0c8a875197f01077c639bd12/Veeresh/mykruskal.cpp)** to navigate to Kruskals Algorithm
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/c10a794fc9d23e0e0c8a875197f01077c639bd12/Veeresh/mykruskal.cpp)** to navigate to Kruskals code
+
+# Hash Table for Waste Collection Tracking
+
+In waste management, ensuring that no area is missed during waste collection is crucial for maintaining a clean and efficient city. A **Hash Table** provides an excellent solution for tracking the waste collection statuses of various areas, making it an ideal tool for managing the process in real-time.
+
+By using a hash table, each area of the city can be represented as a key, with its corresponding value indicating the status of waste collection (e.g., collected, pending, or missed). The key feature of hash tables is their ability to provide **fast access** to data with an average time complexity of O(1), meaning that regardless of the number of areas, looking up or updating the collection status of any given area is almost instantaneous.
+
+Hash tables also offer **easy updates**: if a waste collection task is completed, the status can be quickly changed. Moreover, hash tables can **dynamically adjust** to the number of areas, accommodating both small and large-scale operations as the city's waste management needs evolve. Unlike other data structures, hash tables do not require sorting, making them an efficient choice for handling real-time updates and lookups.
+In the context of waste management in a city, using a hash table enables rapid identification of missed collections and allows for immediate adjustments to collection plans. This makes it a highly effective tool for ensuring that no area is overlooked, contributing to efficient service delivery and optimizing resources like time and manpower.
+
+
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/f84b1224dd87ace8636b54b4788f9cdff72e2e7c/Veeresh/hashtable.cpp)** to navigate to Hash table code.
+
 
 Written By [Veeresh Mattikalli](https://github.com/VeereshMattikalli/)
