@@ -112,8 +112,14 @@ For waste processing systems, **Heap Sort** is a reliable and consistent sorting
 When we require a stable sorting algorithm, need to work with pre-sorted or partially sorted data, and seek guaranteed time complexity, merge sort is an excellent choice. It consistently provides O(n log n) performance in all scenarios, regardless of the input's initial order. Additionally, merge sort is suitable when extra memory usage is acceptable and reliable processing times are necessary, making it an ideal solution for sorting large datasets with predictable behavior across various conditions.
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mergesort.cpp)** to navigate to Merge Sort code
+# BFS:
+**Breadth-First Search (BFS)** is a powerful algorithm particularly suited for finding the shortest path in an unweighted graph, where all edges have equal weight or cost. It explores the graph in a level-by-level manner, starting from a source node and visiting all neighboring nodes before moving to the next level.
 
-**[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/mykruskal.cpp)** to navigate Kruskals code
+For instance, if you're trying to find the most efficient route for waste collection between two points in a city, BFS ensures that the shortest possible path is identified by systematically exploring all possible routes. This guarantees the optimal use of resources such as time and fuel, making the collection process more efficient.
+
+BFS is especially useful in situations where you need to explore multiple possible paths to determine the best one. By evaluating all paths level by level, it ensures that waste collection vehicles follow the shortest route, reducing unnecessary travel time. The algorithm has a time complexity of O(V + E), where V is the number of vertices (or nodes) and E is the number of edges in the graph, which makes it both efficient and reliable for route planning and optimization.
+
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/e0e038cc859820fa23aab742b22d40b18eb12062/Veeresh/bfs.cpp)** to navigate to BFS CODE.
 
 
 Written By [Veeresh Mattikalli](https://github.com/VeereshMattikalli/)
