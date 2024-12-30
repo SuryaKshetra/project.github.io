@@ -154,5 +154,16 @@ In the context of waste management in a city, using a hash table enables rapid i
 
 **[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/f84b1224dd87ace8636b54b4788f9cdff72e2e7c/Veeresh/hashtable.cpp)** to navigate to Hash table code.
 
+# Bubble Sort
+
+In the context of waste management for a 1500 square kilometer smart city, **Bubble Sort** can be utilized as a simple sorting algorithm to help streamline certain operational processes, despite not being the most optimal choice for large-scale applications. Bubble sort works by repeatedly stepping through a list, comparing adjacent elements, and swapping them if they are in the wrong order, which makes it easy to implement.
+
+For waste management, bubble sort could be applied in scenarios where sorting smaller datasets, such as prioritizing waste collection areas based on certain criteria (e.g., size of the area, frequency of waste generation, or proximity to collection points), is needed. For instance, when organizing waste collection routes or managing resources like garbage trucks, bubble sort can help order areas or routes by various factors to streamline operations.
+
+Although bubble sort has a time complexity of O(n²), which makes it inefficient for handling large datasets, it may still be useful in waste management for smaller tasks or when processing a limited number of routes or collection points within a city. For example, sorting a limited list of areas with urgent waste collection needs or ranking zones by priority for service can be handled adequately with bubble sort, especially when the number of items to sort is not large.
+
+In a smart city, while more advanced algorithms like merge sort or quick sort may be used for large-scale optimizations, bubble sort can serve as a basic tool in specific situations where simplicity and ease of implementation are prioritized over performance. It can play a role in smaller sub-tasks that do not require handling extensive data, ensuring efficient waste management at a local level.
+
+**[CLICK HERE](https://github.com/SuryaKshetra/project.github.io/blob/6a37bc9b8e4a37fcf74e1c45b3e9640c393b27eb/Veeresh/bubblesort.cpp)** to navigate to Bubble sort code.
 
 Written By [Veeresh Mattikalli](https://github.com/VeereshMattikalli/)
