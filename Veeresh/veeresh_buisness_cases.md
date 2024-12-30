@@ -35,6 +35,30 @@ This target emphasizes the importance of improving urban air quality as part of 
 
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/MatTable.cpp)** to navigate to the MAT table code
 <br>
+# QuickSort
+
+After collecting all the waste, we need to separate it into categories like dry, wet, and others based on material and size. QuickSort is a great choice because it efficiently sorts large amounts of waste (e.g., plastics, metals, organics) with an average time complexity of **O(n log n)**.
+
+## When to Use QuickSort:
+1. When the waste quantity is small.
+2. When the data is randomly distributed.
+3. When extra memory usage isn’t a concern.
+
+## How It Works:
+1. Take the first waste item as the **pivot**.
+2. From the left, find the first large waste item.
+3. From the right, find the first small waste item.
+4. Swap them and repeat until everything is sorted.
+
+## Performance:
+- **Worst Case**:  
+  - Occurs when the data is already sorted (in ascending or descending order).  
+  - Time complexity: **O(n²)** (similar to Bubble Sort or Selection Sort).  
+
+- **Best Case**:  
+  - Happens when the pivot divides the data evenly.  
+  - Time complexity: **O(n log n)**.
+
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/bubblesort.cpp)** to navigate to the Bubble sort code
 <br>
 **[Click Here](https://github.com/SuryaKshetra/project.github.io/blob/main/Veeresh/dijikstras.cpp)** to navigate to the Dijikstras code
