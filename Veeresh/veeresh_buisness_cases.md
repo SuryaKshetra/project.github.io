@@ -1,6 +1,6 @@
 # Buisness Cases Under Veeresh
 
-## Waste Management Service
+## 1. Waste Management Service
 This initiative aligns with Sustainable Development Goal (SDG) 11, specifically Target 11.6 and Indicator 11.6.1, which focus on reducing the adverse environmental impact of cities, particularly regarding air quality and waste management.
 
 The Waste Management Service aims to streamline waste collection and segregation processes by leveraging data from various areas. By ensuring proper segregation and management of waste, the service minimizes harm to people, animals, and the environment. This promotes a cleaner, healthier urban environment while advancing sustainable waste disposal practices.
